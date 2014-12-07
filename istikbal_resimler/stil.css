@@ -1,0 +1,86 @@
+body,td,th {
+	font-family: verdana;
+	font-size: 10px;
+	color: #a02416;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #DFE5E7;
+	font-family: verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666666;
+}
+a {
+	font-family: verdana;
+	font-size: small;
+	color: #a02416;
+	font-weight: bold;
+}
+a:link {
+	text-decoration: none;
+	font-family: verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #a02416;
+}
+a:visited {
+	text-decoration: none;
+	color: #a02416;
+	font-family: verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+}
+a:hover {
+	text-decoration: none;
+	color: #ff6600;
+	font-family: verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+}
+a:active {
+	text-decoration: none;
+	color: #a02416;
+}
+.style1 {
+	color: #990000;
+	font-weight: bold;
+}.textbox {
+	font-family: verdana;
+	font-size: x-small;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	text-decoration: none;
+	border: 1px solid #333333;
+}
+
+.text_1 {
+	font-family: verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.buton {
+	height: 20px;
+	width: 200px;
+	border: 1px solid #000000;
+}
